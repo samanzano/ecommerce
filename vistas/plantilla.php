@@ -44,7 +44,7 @@
 	?>
 	
 
-	
+	<script src="vistas/js/cabezote.js"></script>
 
 </body>
 </html>
